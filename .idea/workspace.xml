@@ -7,7 +7,13 @@
     <bookmark url="file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py" line="203" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3335ba8-ba26-450c-a704-658b331d3d6e" name="Default Changelist" comment="" />
+    <list default="true" id="a3335ba8-ba26-450c-a704-658b331d3d6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AwsData/38TML,2015-12-19,1/B10.jp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsData/38TML,2015-12-19,1/B8A.jp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsData/38TML,2015-12-19,1/preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsData/38TML,2015-12-19,1/qi/MSK_CLOUDS_B00.gml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwsData/38TML,2015-12-19,1/tileInfo.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +193,9 @@
       <replace>numpy</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -227,6 +236,7 @@
     <option name="width" value="618" />
     <option name="height" value="469" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -494,7 +504,7 @@
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.6918033" weight="0.32946634" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.20546448" side_tool="true" weight="0.38863108" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4978142" weight="0.32946634" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.7945355" visible="true" weight="0.38863108" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.7945355" visible="true" weight="0.3895349" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
