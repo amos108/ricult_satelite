@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/handler.py" />
+    <bookmark url="file://$PROJECT_DIR$/earth_explorer_api.py" />
+    <bookmark url="file://$PROJECT_DIR$/earth_explorer_api.py" line="221" />
+    <bookmark url="file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py" line="203" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3335ba8-ba26-450c-a704-658b331d3d6e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-842479118">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="5" />
+          <entry key="py" value="206" />
+          <entry key="tif" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="Python" value="206" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="8776" />
+          <entry key="dummy" value="59" />
+          <entry key="py" value="13765" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="22541" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="186" column="11" lean-forward="true" selection-start-line="186" selection-end-line="186" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/farm_uploader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/general_algorithms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download_partial_sentinel_hub.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="21" column="11" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/earth_explorer_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+                <marker date="1541880209178" expanded="true" signature="8477:8489" ph="..." />
+                <marker date="1541880209178" expanded="true" signature="11183:11192" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="124" column="10" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>save_rgb_imag</find>
+      <find>command_format</find>
+      <find>70</find>
+      <find>respon</find>
+      <find>str_l</find>
+      <find>all_</find>
+      <find>reboot</find>
+      <find>send_commands</find>
+      <find>down</find>
+      <find>uplo</find>
+      <find>ThreadPool</find>
+      <find>general_algorithms</find>
+      <find>Polygon</find>
+      <find>send</find>
+      <find>reboo</find>
+      <find>instance_ids</find>
+      <find>time.s</find>
+      <find>slee</find>
+      <find>stopped</find>
+      <find>stop_in</find>
+      <find>get_instance_ids</find>
+      <find>start_</find>
+      <find>StartInstances</find>
+      <find>start</find>
+      <find>start_ins</find>
+      <find>stop_</find>
+      <find>stop</find>
+      <find>stopp</find>
+      <find>format</find>
+      <find>= config</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>numpy</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/image_proccessing.py" />
+        <option value="$PROJECT_DIR$/auto_scaling_downloader.py" />
+        <option value="$PROJECT_DIR$/download_image_test.py" />
+        <option value="$PROJECT_DIR$/farm_uploader.py" />
+        <option value="$PROJECT_DIR$/handler_debug.py" />
+        <option value="$PROJECT_DIR$/handler.py" />
+        <option value="$PROJECT_DIR$/handler_date_debug.py" />
+        <option value="$PROJECT_DIR$/handler_date.py" />
+        <option value="$PROJECT_DIR$/new_handler.py" />
+        <option value="$PROJECT_DIR$/aws_api.py" />
+        <option value="$PROJECT_DIR$/downloader.py" />
+        <option value="$PROJECT_DIR$/download_partial2.py" />
+        <option value="$PROJECT_DIR$/download_raw_data_in_parallel_2.py" />
+        <option value="$PROJECT_DIR$/general_utills.py" />
+        <option value="$PROJECT_DIR$/download_raw_data_in_parallel.py" />
+        <option value="$PROJECT_DIR$/delete_empty_images.py" />
+        <option value="$PROJECT_DIR$/temp_download_raw_data_in_parallel_sentinel_hub.py" />
+        <option value="$PROJECT_DIR$/temp_downloader_sentinel_hub.py" />
+        <option value="$PROJECT_DIR$/fix_cload_images.py" />
+        <option value="$PROJECT_DIR$/general_algorithms.py" />
+        <option value="$PROJECT_DIR$/earth_explorer_api.py" />
+        <option value="$PROJECT_DIR$/downloader_sentinel_hub.py" />
+        <option value="$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py" />
+        <option value="$PROJECT_DIR$/download_partial_sentinel_hub.py" />
+        <option value="$PROJECT_DIR$/sentnel_hub_api.py" />
+        <option value="$PROJECT_DIR$/config_file.py" />
+        <option value="$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py" />
+        <option value="$PROJECT_DIR$/trash.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="11" />
+    <option name="width" value="618" />
+    <option name="height" value="469" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.download_raw_data_in_parallel_sentinel_hub_queue_feed">
+    <configuration name="download_partial_sentinel_hub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_partial_sentinel_hub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_raw_data_in_parallel" type="PythonConfigurationType" factoryName="Python">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_raw_data_in_parallel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_raw_data_in_parallel_sentinel_hub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="download_raw_data_in_parallel_sentinel_hub_queue_feed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="downloader" type="PythonConfigurationType" factoryName="Python">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="downloader_sentinel_hub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/downloader_sentinel_hub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="handler" type="PythonConfigurationType" factoryName="Python">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.handler" />
+      <item itemvalue="Python.downloader" />
+      <item itemvalue="Python.download_raw_data_in_parallel" />
+      <item itemvalue="Python.download_raw_data_in_parallel_sentinel_hub" />
+      <item itemvalue="Python.trash" />
+      <item itemvalue="Python.download_partial_sentinel_hub" />
+      <item itemvalue="Python.downloader_sentinel_hub" />
+      <item itemvalue="Python.download_raw_data_in_parallel_sentinel_hub_queue_feed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.download_raw_data_in_parallel_sentinel_hub_queue_feed" />
+        <item itemvalue="Python.download_raw_data_in_parallel_sentinel_hub" />
+        <item itemvalue="Python.downloader_sentinel_hub" />
+        <item itemvalue="Python.download_partial_sentinel_hub" />
+        <item itemvalue="Python.trash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3335ba8-ba26-450c-a704-658b331d3d6e" name="Default Changelist" comment="" />
+      <created>1537169895505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537169895505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="990" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7785467" visible="true" weight="0.22786885" />
+      <window_info id="Structure" order="1" sideWeight="0.2214533" side_tool="true" weight="0.22786885" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75956285" weight="0.3515081" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7726776" weight="0.3689095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.6918033" weight="0.32946634" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.20546448" side_tool="true" weight="0.38863108" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4978142" weight="0.32946634" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.7945355" visible="true" weight="0.38863108" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/download_raw_data_in_parallel.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/trash.py</url>
+          <log-expression expression="sTileRequest&#10;import  config_file,time&#10;&#10;INSTANCE_ID = '97b3c965-e57f-4a06-9ddc-e1ec478d930a'  # In case you put instance ID into cofniguration file you can leave this unchanged&#10;&#10;search_bbox = BBox(bbox=[46.16, -16.15, 46.51, -15.58], crs=CRS.WGS84)&#10;search_time_interval = ('2017-12-01T00:00:00', '2017-12-15T23:59:59')&#10;&#10;&#10;wfs_iterator = WebFeatureService(search_bbox, search_time_interval,&#10;                                 data_source=DataSource.SENTINEL2_L1C,&#10;                                 maxcc=1.0, instance_id=INSTANCE_ID)&#10;&#10;for tile_info in wfs_iterator:&#10;    print(tile_info)&#10;&#10;data_folder = 'temp'&#10;tt = time.time()&#10;#metafiles = ['productInfo', 'tileInfo', 'metadata', 'inspire', 'manifest', 'datastrip/*/metadata', 'TCI', 'qi/MSK_CLOUDS_B00', 'qi/MSK_DEFECT_B01', 'qi/MSK_DEFECT_B02', 'qi/MSK_DEFECT_B03', 'qi/MSK_DEFECT_B04', 'qi/MSK_DEFECT_B05', 'qi/MSK_DEFECT_B06', 'qi/MSK_DEFECT_B07', 'qi/MSK_DEFECT_B08', 'qi/MSK_DEFECT_B8A', 'qi/MSK_DEFECT_B09', 'qi/MSK_DEFECT_B10', 'qi/MSK_DEFECT_B11', 'qi/MSK_DEFECT_B12', 'qi/MSK_DETFOO_B01', 'qi/MSK_DETFOO_B02', 'qi/MSK_DETFOO_B03', 'qi/MSK_DETFOO_B04', 'qi/MSK_DETFOO_B05', 'qi/MSK_DETFOO_B06', 'qi/MSK_DETFOO_B07', 'qi/MSK_DETFOO_B08', 'qi/MSK_DETFOO_B8A', 'qi/MSK_DETFOO_B09', 'qi/MSK_DETFOO_B10', 'qi/MSK_DETFOO_B11', 'qi/MSK_DETFOO_B12', 'qi/MSK_NODATA_B01', 'qi/MSK_NODATA_B02', 'qi/MSK_NODATA_B03', 'qi/MSK_NODATA_B04', 'qi/MSK_NODATA_B05', 'qi/MSK_NODATA_B06', 'qi/MSK_NODATA_B07', 'qi/MSK_NODATA_B08', 'qi/MSK_NODATA_B8A', 'qi/MSK_NODATA_B09', 'qi/MSK_NODATA_B10', 'qi/MSK_NODATA_B11', 'qi/MSK_NODATA_B12', 'qi/MSK_SATURA_B01', 'qi/MSK_SATURA_B02', 'qi/MSK_SATURA_B03', 'qi/MSK_SATURA_B04', 'qi/MSK_SATURA_B05', 'qi/MSK_SATURA_B06', 'qi/MSK_SATURA_B07', 'qi/MSK_SATURA_B08', 'qi/MSK_SATURA_B8A', 'qi/MSK_SATURA_B09', 'qi/MSK_SATURA_B10', 'qi/MSK_SATURA_B11', 'qi/MSK_SATURA_B12', 'qi/MSK_TECQUA_B01', 'qi/MSK_TECQUA_B02', 'qi/MSK_TECQUA_B03', 'qi/MSK_TECQUA_B04', 'qi/MSK_TECQUA_B05', 'qi/MSK_TECQUA_B06', 'qi/MSK_TECQUA_B07', 'qi/MSK_TECQUA_B08', 'qi/MSK_TECQUA_B8A', 'qi/MSK_TECQUA_B09', 'qi/MSK_TECQUA_B10', 'qi/MSK_TECQUA_B11', 'qi/MSK_TECQUA_B12', 'qi/FORMAT_CORRECTNESS', 'qi/GENERAL_QUALITY', 'qi/GEOMETRIC_QUALITY', 'qi/SENSOR_QUALITY', 'auxiliary/ECMWFT']&#10;#metafiles = ['productInfo', 'tileInfo', 'metadata', 'inspire', 'manifest', 'datastrip/*/metadata', 'TCI', 'qi/MSK_CLOUDS_B00', 'qi/MSK_DEFECT_B01', 'qi/MSK_DEFECT_B02', 'qi/MSK_DEFECT_B03', 'qi/MSK_DEFECT_B04', 'qi/MSK_DEFECT_B05', 'qi/MSK_DEFECT_B06', 'qi/MSK_DEFECT_B07', 'qi/MSK_DEFECT_B08', 'qi/MSK_DEFECT_B8A', 'qi/MSK_DEFECT_B09', 'qi/MSK_DEFECT_B10', 'qi/MSK_DEFECT_B11', 'qi/MSK_DEFECT_B12', 'qi/MSK_DETFOO_B01', 'qi/MSK_DETFOO_B02', 'qi/MSK_DETFOO_B03', 'qi/MSK_DETFOO_B04', 'qi/MSK_DETFOO_B05', 'qi/MSK_DETFOO_B06', 'qi/MSK_DETFOO_B07', 'qi/MSK_DETFOO_B08', 'qi/MSK_DETFOO_B8A', 'qi/MSK_DETFOO_B09', 'qi/MSK_DETFOO_B10', 'qi/MSK_DETFOO_B11', 'qi/MSK_DETFOO_B12', 'qi/MSK_NODATA_B01', 'qi/MSK_NODATA_B02', 'qi/MSK_NODATA_B03', 'qi/MSK_NODATA_B04', 'qi/MSK_NODATA_B05', 'qi/MSK_NODATA_B06', 'qi/MSK_NODATA_B07', 'qi/MSK_NODATA_B08', 'qi/MSK_NODATA_B8A', 'qi/MSK_NODATA_B09', 'qi/MSK_NODATA_B10', 'qi/MSK_NODATA_B11', 'qi/MSK_NODATA_B12', 'qi/MSK_SATURA_B01', 'qi/MSK_SATURA_B02', 'qi/MSK_SATURA_B03', 'qi/MSK_SATURA_B04', 'qi/MSK_SATURA_B05', 'qi/MSK_SATURA_B06', 'qi/MSK_SATURA_B07', 'qi/MSK_SATURA_B08', 'qi/MSK_SATURA_B8A', 'qi/MSK_SATURA_B09', 'qi/MSK_SATURA_B10', 'qi/MSK_SATURA_B11', 'qi/MSK_SATURA_B12', 'qi/MSK_TECQUA_B01', 'qi/MSK_TECQUA_B02', 'qi/MSK_TECQUA_B03', 'qi/MSK_TECQUA_B04', 'qi/MSK_TECQUA_B05', 'qi/MSK_TECQUA_B06', 'qi/MSK_TECQUA_B07', 'qi/MSK_TECQUA_B08', 'qi/MSK_TECQUA_B8A', 'qi/MSK_TECQUA_B09', 'qi/MSK_TECQUA_B10', 'qi/MSK_TECQUA_B11', 'qi/MSK_TECQUA_B12', 'qi/FORMAT_CORRECTNESS', 'qi/GENERAL_QUALITY', 'qi/GEOMETRIC_QUALITY', 'qi/SENSOR_QUALITY', 'auxiliary/ECMWFT']&#10;for (tile_name,t_time,aws_index) in wfs_iterator.get_tiles():&#10;    tile_request = AwsTileRequest(tile=tile_name, time=t_time, aws_index=aws_index, data_folder=data_folder,layer='TRUE-COLOR-S2-L2A',)#metafiles=metafiles" language="Python" />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_handler.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/downloader_sentinel_hub.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py</url>
+          <line>111</line>
+          <log-expression expression="response = batch_client.submit_job(&#10;        jobName=key.replace(' ','_'),&#10;        jobQueue='downloader_job_queue',&#10;        jobDefinition='downloader_job:2',&#10;        parameters={&#10;            'string': 'string'&#10;        },&#10;        containerOverrides={&#10;            'vcpus': 1,&#10;            'memory': config_file.MEMORY,&#10;            'command': command_preamble + [command]&#10;        },&#10;        retryStrategy={&#10;            'attempts': 10&#10;        })" language="Python" />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>def get_unavail_instances():
+    all_commands = [ssm_client.list_commands(CommandId=cid)['Commands'][0] for cid in all_command_ids]
+    running_commands = [cmd for cmd in all_commands if cmd['Status'] in ['InProgress', 'Pending']]
+    unavail_ids = []
+    for command in running_commands:
+        unavail_ids+=command['InstanceIds']
+    return unavail_ids</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>response = batch_client.submit_job(
+        jobName=key.replace(' ','_'),
+        jobQueue='downloader_job_queue',
+        jobDefinition='downloader_job:2',
+        parameters={
+            'string': 'string'
+        },
+        containerOverrides={
+            'vcpus': 1,
+            'memory': config_file.MEMORY,
+            'command': command_preamble + [command]
+        },
+        retryStrategy={
+            'attempts': 10
+        })</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sTileRequest
+import  config_file,time
+
+INSTANCE_ID = '97b3c965-e57f-4a06-9ddc-e1ec478d930a'  # In case you put instance ID into cofniguration file you can leave this unchanged
+
+search_bbox = BBox(bbox=[46.16, -16.15, 46.51, -15.58], crs=CRS.WGS84)
+search_time_interval = ('2017-12-01T00:00:00', '2017-12-15T23:59:59')
+
+
+wfs_iterator = WebFeatureService(search_bbox, search_time_interval,
+                                 data_source=DataSource.SENTINEL2_L1C,
+                                 maxcc=1.0, instance_id=INSTANCE_ID)
+
+for tile_info in wfs_iterator:
+    print(tile_info)
+
+data_folder = 'temp'
+tt = time.time()
+#metafiles = ['productInfo', 'tileInfo', 'metadata', 'inspire', 'manifest', 'datastrip/*/metadata', 'TCI', 'qi/MSK_CLOUDS_B00', 'qi/MSK_DEFECT_B01', 'qi/MSK_DEFECT_B02', 'qi/MSK_DEFECT_B03', 'qi/MSK_DEFECT_B04', 'qi/MSK_DEFECT_B05', 'qi/MSK_DEFECT_B06', 'qi/MSK_DEFECT_B07', 'qi/MSK_DEFECT_B08', 'qi/MSK_DEFECT_B8A', 'qi/MSK_DEFECT_B09', 'qi/MSK_DEFECT_B10', 'qi/MSK_DEFECT_B11', 'qi/MSK_DEFECT_B12', 'qi/MSK_DETFOO_B01', 'qi/MSK_DETFOO_B02', 'qi/MSK_DETFOO_B03', 'qi/MSK_DETFOO_B04', 'qi/MSK_DETFOO_B05', 'qi/MSK_DETFOO_B06', 'qi/MSK_DETFOO_B07', 'qi/MSK_DETFOO_B08', 'qi/MSK_DETFOO_B8A', 'qi/MSK_DETFOO_B09', 'qi/MSK_DETFOO_B10', 'qi/MSK_DETFOO_B11', 'qi/MSK_DETFOO_B12', 'qi/MSK_NODATA_B01', 'qi/MSK_NODATA_B02', 'qi/MSK_NODATA_B03', 'qi/MSK_NODATA_B04', 'qi/MSK_NODATA_B05', 'qi/MSK_NODATA_B06', 'qi/MSK_NODATA_B07', 'qi/MSK_NODATA_B08', 'qi/MSK_NODATA_B8A', 'qi/MSK_NODATA_B09', 'qi/MSK_NODATA_B10', 'qi/MSK_NODATA_B11', 'qi/MSK_NODATA_B12', 'qi/MSK_SATURA_B01', 'qi/MSK_SATURA_B02', 'qi/MSK_SATURA_B03', 'qi/MSK_SATURA_B04', 'qi/MSK_SATURA_B05', 'qi/MSK_SATURA_B06', 'qi/MSK_SATURA_B07', 'qi/MSK_SATURA_B08', 'qi/MSK_SATURA_B8A', 'qi/MSK_SATURA_B09', 'qi/MSK_SATURA_B10', 'qi/MSK_SATURA_B11', 'qi/MSK_SATURA_B12', 'qi/MSK_TECQUA_B01', 'qi/MSK_TECQUA_B02', 'qi/MSK_TECQUA_B03', 'qi/MSK_TECQUA_B04', 'qi/MSK_TECQUA_B05', 'qi/MSK_TECQUA_B06', 'qi/MSK_TECQUA_B07', 'qi/MSK_TECQUA_B08', 'qi/MSK_TECQUA_B8A', 'qi/MSK_TECQUA_B09', 'qi/MSK_TECQUA_B10', 'qi/MSK_TECQUA_B11', 'qi/MSK_TECQUA_B12', 'qi/FORMAT_CORRECTNESS', 'qi/GENERAL_QUALITY', 'qi/GEOMETRIC_QUALITY', 'qi/SENSOR_QUALITY', 'auxiliary/ECMWFT']
+#metafiles = ['productInfo', 'tileInfo', 'metadata', 'inspire', 'manifest', 'datastrip/*/metadata', 'TCI', 'qi/MSK_CLOUDS_B00', 'qi/MSK_DEFECT_B01', 'qi/MSK_DEFECT_B02', 'qi/MSK_DEFECT_B03', 'qi/MSK_DEFECT_B04', 'qi/MSK_DEFECT_B05', 'qi/MSK_DEFECT_B06', 'qi/MSK_DEFECT_B07', 'qi/MSK_DEFECT_B08', 'qi/MSK_DEFECT_B8A', 'qi/MSK_DEFECT_B09', 'qi/MSK_DEFECT_B10', 'qi/MSK_DEFECT_B11', 'qi/MSK_DEFECT_B12', 'qi/MSK_DETFOO_B01', 'qi/MSK_DETFOO_B02', 'qi/MSK_DETFOO_B03', 'qi/MSK_DETFOO_B04', 'qi/MSK_DETFOO_B05', 'qi/MSK_DETFOO_B06', 'qi/MSK_DETFOO_B07', 'qi/MSK_DETFOO_B08', 'qi/MSK_DETFOO_B8A', 'qi/MSK_DETFOO_B09', 'qi/MSK_DETFOO_B10', 'qi/MSK_DETFOO_B11', 'qi/MSK_DETFOO_B12', 'qi/MSK_NODATA_B01', 'qi/MSK_NODATA_B02', 'qi/MSK_NODATA_B03', 'qi/MSK_NODATA_B04', 'qi/MSK_NODATA_B05', 'qi/MSK_NODATA_B06', 'qi/MSK_NODATA_B07', 'qi/MSK_NODATA_B08', 'qi/MSK_NODATA_B8A', 'qi/MSK_NODATA_B09', 'qi/MSK_NODATA_B10', 'qi/MSK_NODATA_B11', 'qi/MSK_NODATA_B12', 'qi/MSK_SATURA_B01', 'qi/MSK_SATURA_B02', 'qi/MSK_SATURA_B03', 'qi/MSK_SATURA_B04', 'qi/MSK_SATURA_B05', 'qi/MSK_SATURA_B06', 'qi/MSK_SATURA_B07', 'qi/MSK_SATURA_B08', 'qi/MSK_SATURA_B8A', 'qi/MSK_SATURA_B09', 'qi/MSK_SATURA_B10', 'qi/MSK_SATURA_B11', 'qi/MSK_SATURA_B12', 'qi/MSK_TECQUA_B01', 'qi/MSK_TECQUA_B02', 'qi/MSK_TECQUA_B03', 'qi/MSK_TECQUA_B04', 'qi/MSK_TECQUA_B05', 'qi/MSK_TECQUA_B06', 'qi/MSK_TECQUA_B07', 'qi/MSK_TECQUA_B08', 'qi/MSK_TECQUA_B8A', 'qi/MSK_TECQUA_B09', 'qi/MSK_TECQUA_B10', 'qi/MSK_TECQUA_B11', 'qi/MSK_TECQUA_B12', 'qi/FORMAT_CORRECTNESS', 'qi/GENERAL_QUALITY', 'qi/GEOMETRIC_QUALITY', 'qi/SENSOR_QUALITY', 'auxiliary/ECMWFT']
+for (tile_name,t_time,aws_index) in wfs_iterator.get_tiles():
+    tile_request = AwsTileRequest(tile=tile_name, time=t_time, aws_index=aws_index, data_folder=data_folder,layer='TRUE-COLOR-S2-L2A',)#metafiles=metafiles</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mt = 2050
+    st = 50/3
+    nx = (data-mt)/st
+    iscload_array = numpy.zeros(nx.shape)
+    for k1 in range(nx.shape[0]):
+        for k2 in range(nx.shape[1]):
+            if data[k1][k2] == 0:
+                iscload_array[k1][k2] = -1
+            else:
+                iscload_array[k1][k2] = general_utills.norm_cdf(nx[k1][k2])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for ii, scene in enumerate(partial_scenes):
+    temp_dir = curr_path + '/temp'
+    bucket_name = config_file.DATA_BUCKET_NAME
+    if scene not in all_scenes:
+        continue
+    rel_scene = all_scenes[scene]
+    yy = time.time()
+    print('downloading %f percent' % (ii / len(partial_scenes)))
+    tran_api.download_scene(rel_scene, sc_id=scene, temp_dir=temp_dir)
+
+    tran_api.proccess_raw_downloads(bucket_name, rel_scene, temp_dir)
+    curr_time = time.time() - yy
+    tot_time = time.time() - start_time
+    print('current run time : {} ,total time : {}'.format(curr_time, tot_time))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/history.json" />
+    <entry file="file:///usr/lib/python3/dist-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="2430" selection-start-line="2430" selection-end-line="2430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active_scenes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret column="27983" selection-start-column="27981" selection-end-column="27983" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_scaling_downloader.py" />
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/botocore/waiter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/data_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566">
+          <caret line="543" column="55" selection-start-line="543" selection-start-column="47" selection-end-line="543" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_image_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="33" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handler_date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handler_date_debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel_aws_sentinel_hub.py" />
+    <entry file="file://$PROJECT_DIR$/download_partial2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/pip/basecommand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3.6/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7310">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_ipython/matplotlibtools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_ipython/inputhook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="3264" selection-start-line="3264" selection-end-line="3264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/rasterio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/rasterio/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="402" selection-start-line="402" selection-end-line="402" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/aws.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/speechd/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="300" column="8" selection-start-line="300" selection-start-column="8" selection-end-line="300" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/ogc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="329" column="8" selection-start-line="329" selection-start-column="8" selection-end-line="329" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/sentinelhub/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3689">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/botocore/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handler_debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/boto3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fix_cload_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_utills.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="208" selection-start-line="208" selection-end-line="210" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_downloader_sentinel_hub.py" />
+    <entry file="file://$PROJECT_DIR$/delete_empty_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="42" column="24" selection-start-line="41" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_download_raw_data_in_parallel_sentinel_hub.py" />
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="126" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="126" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1028#1370#0" />
+            <element signature="e#1381#2609#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/botocore/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="60" column="53" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farm_uploader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_algorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentnel_hub_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1936">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloader_sentinel_hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/earth_explorer_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <marker date="1541880209178" expanded="true" signature="8477:8489" ph="..." />
+            <marker date="1541880209178" expanded="true" signature="11183:11192" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_partial_sentinel_hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="21" column="11" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_raw_data_in_parallel_sentinel_hub_queue_feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="124" column="10" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="186" column="11" lean-forward="true" selection-start-line="186" selection-end-line="186" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
